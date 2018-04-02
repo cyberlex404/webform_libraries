@@ -1,5 +1,5 @@
 {
-  "name": "drupal/webform_libraries",
+  "name": "cyberlex404/webform_libraries",
   "type": "drupal-module",
   "description": "Webform libraries json",
   "keywords": ["Drupal"],
