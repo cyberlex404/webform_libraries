@@ -1,0 +1,7 @@
+name: webform_libraries
+type: module
+description: Webform libraries json
+core: 8.x
+package: Custom
+dependencies:
+  - webform
